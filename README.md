@@ -1,7 +1,8 @@
 # Doctor-Intelligence-Feed---AI-agent
 # Create a downloadable README.md file with badges and structured sections
 
-readme_content = """
+🎥 **Demo Video**: [Watch the full walkthrough on Loom](https://www.loom.com/share/10722adaed184828abb9843ede6add39?sid=17df3c77-b97f-451b-849d-5525ebcbc5e0)
+
 # 🧠 Doctor Intelligence Feed (DIF)
 
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange)](https://streamlit.io/)
