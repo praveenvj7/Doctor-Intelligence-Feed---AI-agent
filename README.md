@@ -45,7 +45,7 @@ To see the app in action, feel free to reach out for a detailed voiceover walkth
 
 ## 🤝 Contributing
 
-If you’re interested in exploring, refining, or collaborating on the codebase, head over to the [GitHub repo](#) and raise an issue or pull request. Open to thoughtful discussions and contributions that push healthcare tech forward.
+If you’re interested in exploring, refining, or collaborating on the codebase, head over to the Repo and raise an issue or pull request. Open to thoughtful discussions and contributions that push healthcare tech forward.
 
 ---
 
@@ -53,10 +53,3 @@ If you’re interested in exploring, refining, or collaborating on the codebase,
 
 DM me for access to the demo or product doc. Let’s connect and build something meaningful.
 """
-
-# Save as README.md
-readme_path = "/mnt/data/README_DIF.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
